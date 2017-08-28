@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Dual_Graph_Community" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
