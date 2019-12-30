@@ -1,6 +1,8 @@
 # simple Dual Graph Community Detector in QGIS - script level
 
-A simple dual graph community detection QGIS plugin. It wraps the Python Louvain-Community (https://github.com/taynaud/python-louvain) function for QGIS. 
+A simple dual graph community detection QGIS plugin. 
+
+It wraps the Python Louvain-Community (https://github.com/taynaud/python-louvain) function for QGIS. 
 
 The repository includes some development scripts for future development.
 
