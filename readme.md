@@ -1,10 +1,13 @@
-# simple Dual Graph Community Detection in QGIS (A wrapper for Louvain-Community)
+# simple Dual Graph Community Detector in QGIS - script level
 
-A simple dual graph community detection in QGIS. 
-It wraps the modularity-louvain python library into a QGIS plugin. 
-It includes some development scripts that requires further development.
+A simple dual graph community detection QGIS plugin. It wraps the Python Louvain-Community (https://github.com/taynaud/python-louvain) function for QGIS. 
+
+The repository includes some development scripts for future development.
+
+## development
+* work is needed to implement fuzzy communities and weighted communities.
 
 ## Dependencies
 * pyqgis
 * networkx
-* modularity-louvain
+* modularity-louvain (pip install python-louvain)
