@@ -77,7 +77,8 @@ class dual_graph_community_analysis(QObject):
         nx.set_node_attributes(LG, '4_ec', eigenvector)
         return LG
 
-    def blockmodel(self,LG):
+    
+    def unfinished_blockmodel(self,LG):
         #http://networkx.readthedocs.io/en/latest/auto_examples/algorithms/plot_blockmodel.html#sphx-glr-auto-examples-algorithms-plot-blockmodel-py
         #https://networkx.github.io/documentation/networkx-1.10/examples/algorithms/blockmodel.html
 
