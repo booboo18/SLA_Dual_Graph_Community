@@ -1,12 +1,15 @@
-# simple Dual Graph Community Detector in QGIS - script level
+# Simple Street Network (Dual Graph) Community Detection in QGIS - pre-released version
 
-A simple dual graph community detection QGIS plugin. 
+## Introduction
 
-It wraps the Python Louvain-Community (https://github.com/taynaud/python-louvain) function for QGIS. 
+A simple street network (dual graph) community detection QGIS plugin. 
+
+It wraps the Python Louvain-Community (https://github.com/taynaud/python-louvain) function into QGIS. 
 
 The repository includes some development scripts for future development.
 
-## development
+## Development
+
 * work is needed to implement fuzzy communities and weighted communities.
 
 ## Dependencies
